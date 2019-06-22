@@ -1,6 +1,8 @@
 # Rock Paper Scissors
 ~2 hours
 
+## [Project Link](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)
+
 ## Goal: 
 Build a rock, paper, scissors game where the user plays against the computer with a win condition.
 
