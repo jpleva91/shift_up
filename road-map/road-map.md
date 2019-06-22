@@ -1,8 +1,8 @@
 # Road Map
 
 ## The Basics
-1. Program Overview. I really like the House Rules section from [Founders & Coders.](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/house-rules.md)
-2. [Why become a Web Developer?](https://www.youtube.com/watch?v=Agl0r6IjcPw)
+1. Program Overview. I really like the House Rules section from [Founders & Coders.](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/house-rules.md)(~10 minutes)
+2. [Why become a Web Developer?](https://www.youtube.com/watch?v=Agl0r6IjcPw)(~10 minutes)
 3. [A Packet's Tale. How Does the Internet Work?](https://www.youtube.com/watch?v=ewrBalT_eBM&feature=) (~5 minutes)
 
 ## Installation
