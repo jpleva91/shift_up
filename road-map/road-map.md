@@ -28,6 +28,6 @@
 1. Project: [The Odin Project - Build the Google Search Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css) (~2 hours)
 
 ## JavaScript Projects
-1. Project: [The Odin Project - Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors) (~2 hours)
+1. Project: [The Odin Project - Rock Paper Scissors](https://github.com/jpleva91/shift_up/blob/master/projects/the-odin-project/project-01-rock-paper-scissors.md) (~2 hours)
 
 
