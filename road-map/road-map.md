@@ -6,11 +6,15 @@
 3. [A Packet's Tale. How Does the Internet Work?](https://www.youtube.com/watch?v=ewrBalT_eBM&feature=) (~5 minutes)
 
 ## Installation
-1. [Founders & Coders Installation List](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/precourse#precourse-material) 
+1. [Start with the Installation section of this Founders & Coders Guide](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/precourse#precourse-material) (~1 hour)
 2. [The Odin Project - Text Editor Setup](https://www.theodinproject.com/courses/web-development-101/lessons/text-editors) (~20 minutes)
+
+## HTML Basics
+1. [Start with the Basic HTML and HTML5 section of FCC](https://learn.freecodecamp.org/) (~)
 
 ## Command Line Basics
 1. Complete the first 2 sections of this interactive [Codeacademy](https://www.codecademy.com/learn/learn-the-command-line) on command line basics. (~30 minutes)
+2. (Optional) [Complete this Command Line Crash Course from Learn Python the Hard Way](https://learnpythonthehardway.org/book/appendixa.html)
 
 ## Git Basics
 1. [The Odin Project - Git Setup](https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git) (~30 minutes)
