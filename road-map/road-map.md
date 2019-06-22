@@ -16,6 +16,10 @@
 2. [The Odin Project - Introduction to Git](https://www.theodinproject.com/courses/web-development-101/lessons/introduction-to-git)(~1 hour)
 3. [The Odin Project - Practicing Git Basics](https://www.theodinproject.com/courses/web-development-101/lessons/practicing-git-basics)(~1 hour)
 
+## HTML & CSS
+1. Project: [The Odin Project - Build the Google Search Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)(~2 hours)
 
+## JavaScript
+1. Project: [The Odin Project - Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)(~2 hours)
 
 
