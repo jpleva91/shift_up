@@ -1,4 +1,5 @@
 # Rock Paper Scissors
+~2 hours
 
 ## Goal: 
 Build a rock, paper, scissors game where the user plays against the computer with a win condition.
