@@ -17,7 +17,7 @@
 2. [Create a Codewars account and represent your clan!](https://www.codewars.com)
 
 ## Git & Github Tutorial
-1. [Complete this Udacity Tutorial](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+1. [Complete this Udacity Tutorial](https://www.udacity.com/course/how-to-use-git-and-github--ud775) - Complete Lesson 1 (Navigating A Commit History section)
 
 ## Command Line Basics
 1. Complete the first 2 sections of this interactive [Codeacademy](https://www.codecademy.com/learn/learn-the-command-line) on command line basics. (~30 minutes)
