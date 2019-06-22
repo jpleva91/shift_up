@@ -1,7 +1,7 @@
 # Road Map
 
 ## The Basics
-1. Program Overview. I really like the House Rules section from (Founders & Coders)[https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/house-rules.md]
+1. Program Overview. I really like the House Rules section from [Founders & Coders](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/house-rules.md)
 2. Intro to Web Development (tbd)
 3. [A Packet's Tale. How Does the Internet Work?](https://www.youtube.com/watch?v=ewrBalT_eBM&feature=) (~5 minutes)
 
