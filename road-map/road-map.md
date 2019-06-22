@@ -1,12 +1,13 @@
 # Road Map
 
 ## The Basics
-1. Program Overview (tbd)
+1. Program Overview. I really like the House Rules section from (Founders & Coders)[https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/house-rules.md]
 2. Intro to Web Development (tbd)
 3. [A Packet's Tale. How Does the Internet Work?](https://www.youtube.com/watch?v=ewrBalT_eBM&feature=) (~5 minutes)
 
-## Text Editor
-1. [The Odin Project - Text Editor Setup](https://www.theodinproject.com/courses/web-development-101/lessons/text-editors)(~20 minutes)
+## Installation
+1. [Founders & Coders Installation List](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/precourse#precourse-material) 
+2. [The Odin Project - Text Editor Setup](https://www.theodinproject.com/courses/web-development-101/lessons/text-editors)(~20 minutes)
 
 ## Command Line Basics
 1. Complete the first 2 sections of this interactive [Codeacademy](https://www.codecademy.com/learn/learn-the-command-line) on command line basics.(~30 minutes)
