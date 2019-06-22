@@ -14,6 +14,10 @@
 
 ## JavaScript Basics
 1. [Start with JavaScript from FCC](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code/)
+2. [Create a Codewars account and represent your clan!](https://www.codewars.com)
+
+## Git & Github Tutorial
+1. [Complete this Udacity Tutorial](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ## Command Line Basics
 1. Complete the first 2 sections of this interactive [Codeacademy](https://www.codecademy.com/learn/learn-the-command-line) on command line basics. (~30 minutes)
